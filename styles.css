@@ -9,7 +9,7 @@
 	text-align : left;
 }
 .right {
-	text-align : right ;
+	text-align : right;
 }
 #table-2{
 	width : 500px;
@@ -19,6 +19,7 @@
 }
 tr>td{
 	height : 30px;
+	border : 1px solid rgb(0,0,0);
 }
 #table-3{
 	width : 500px;
